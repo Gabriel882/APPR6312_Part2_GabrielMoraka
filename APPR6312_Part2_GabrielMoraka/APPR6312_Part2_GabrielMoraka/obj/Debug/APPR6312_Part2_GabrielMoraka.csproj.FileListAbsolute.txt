@@ -1,0 +1,62 @@
+C:\Users\kutlw\source\repos\APPR6312_Part2_GabrielMoraka\APPR6312_Part2_GabrielMoraka\obj\Debug\APPR6312_Part2_GabrielMoraka.csproj.AssemblyReference.cache
+C:\Users\kutlw\source\repos\APPR6312_Part2_GabrielMoraka\APPR6312_Part2_GabrielMoraka\obj\Debug\ChooseOption.g.cs
+C:\Users\kutlw\source\repos\APPR6312_Part2_GabrielMoraka\APPR6312_Part2_GabrielMoraka\obj\Debug\LoginPage.g.cs
+C:\Users\kutlw\source\repos\APPR6312_Part2_GabrielMoraka\APPR6312_Part2_GabrielMoraka\obj\Debug\MainWindow.g.cs
+C:\Users\kutlw\source\repos\APPR6312_Part2_GabrielMoraka\APPR6312_Part2_GabrielMoraka\obj\Debug\App.g.cs
+C:\Users\kutlw\source\repos\APPR6312_Part2_GabrielMoraka\APPR6312_Part2_GabrielMoraka\obj\Debug\APPR6312_Part2_GabrielMoraka_MarkupCompile.cache
+C:\Users\kutlw\source\repos\APPR6312_Part2_GabrielMoraka\APPR6312_Part2_GabrielMoraka\obj\Debug\APPR6312_Part2_GabrielMoraka_MarkupCompile.lref
+C:\Users\kutlw\source\repos\APPR6312_Part2_GabrielMoraka\APPR6312_Part2_GabrielMoraka\bin\Debug\APPR6312_Part2_GabrielMoraka.exe.config
+C:\Users\kutlw\source\repos\APPR6312_Part2_GabrielMoraka\APPR6312_Part2_GabrielMoraka\bin\Debug\APPR6312_Part2_GabrielMoraka.exe
+C:\Users\kutlw\source\repos\APPR6312_Part2_GabrielMoraka\APPR6312_Part2_GabrielMoraka\bin\Debug\APPR6312_Part2_GabrielMoraka.pdb
+C:\Users\kutlw\source\repos\APPR6312_Part2_GabrielMoraka\APPR6312_Part2_GabrielMoraka\obj\Debug\ChooseOption.baml
+C:\Users\kutlw\source\repos\APPR6312_Part2_GabrielMoraka\APPR6312_Part2_GabrielMoraka\obj\Debug\LoginPage.baml
+C:\Users\kutlw\source\repos\APPR6312_Part2_GabrielMoraka\APPR6312_Part2_GabrielMoraka\obj\Debug\MainWindow.baml
+C:\Users\kutlw\source\repos\APPR6312_Part2_GabrielMoraka\APPR6312_Part2_GabrielMoraka\obj\Debug\APPR6312_Part2_GabrielMoraka.g.resources
+C:\Users\kutlw\source\repos\APPR6312_Part2_GabrielMoraka\APPR6312_Part2_GabrielMoraka\obj\Debug\APPR6312_Part2_GabrielMoraka.Properties.Resources.resources
+C:\Users\kutlw\source\repos\APPR6312_Part2_GabrielMoraka\APPR6312_Part2_GabrielMoraka\obj\Debug\APPR6312_Part2_GabrielMoraka.csproj.GenerateResource.cache
+C:\Users\kutlw\source\repos\APPR6312_Part2_GabrielMoraka\APPR6312_Part2_GabrielMoraka\obj\Debug\APPR6312_Part2_GabrielMoraka.csproj.CoreCompileInputs.cache
+C:\Users\kutlw\source\repos\APPR6312_Part2_GabrielMoraka\APPR6312_Part2_GabrielMoraka\obj\Debug\APPR6312_Part2_GabrielMoraka.exe
+C:\Users\kutlw\source\repos\APPR6312_Part2_GabrielMoraka\APPR6312_Part2_GabrielMoraka\obj\Debug\APPR6312_Part2_GabrielMoraka.pdb
+C:\Users\kutlw\source\repos\APPR6312_Part2_GabrielMoraka\APPR6312_Part2_GabrielMoraka\obj\Debug\DisasterReport.g.cs
+C:\Users\kutlw\source\repos\APPR6312_Part2_GabrielMoraka\APPR6312_Part2_GabrielMoraka\obj\Debug\DisasterReport.baml
+C:\Users\kutlw\source\repos\APPR6312_Part2_GabrielMoraka\APPR6312_Part2_GabrielMoraka\obj\Debug\DonationApp.g.cs
+C:\Users\kutlw\source\repos\APPR6312_Part2_GabrielMoraka\APPR6312_Part2_GabrielMoraka\obj\Debug\DonationApp.baml
+C:\Users\kutlw\source\repos\APPR6312_Part2_GabrielMoraka\APPR6312_Part2_GabrielMoraka\obj\Debug\RegisterVolunteer.g.cs
+C:\Users\kutlw\source\repos\APPR6312_Part2_GabrielMoraka\APPR6312_Part2_GabrielMoraka\obj\Debug\RegisterVolunteer.baml
+C:\Users\kutlw\source\repos\APPR6312_Part2_GabrielMoraka\APPR6312_Part2_GabrielMoraka\obj\Debug\TaskManagement.g.cs
+C:\Users\kutlw\source\repos\APPR6312_Part2_GabrielMoraka\APPR6312_Part2_GabrielMoraka\obj\Debug\TaskManagement.baml
+C:\Users\kutlw\source\repos\APPR6312_Part2_GabrielMoraka\APPR6312_Part2_GabrielMoraka\obj\Debug\VolunteerLogin.g.cs
+C:\Users\kutlw\source\repos\APPR6312_Part2_GabrielMoraka\APPR6312_Part2_GabrielMoraka\obj\Debug\VolunteerLogin.baml
+C:\Users\kutlw\source\repos\APPR6312_Part2_GabrielMoraka\APPR6312_Part2_GabrielMoraka\obj\Debug\ManageProfile.g.cs
+C:\Users\kutlw\source\repos\APPR6312_Part2_GabrielMoraka\APPR6312_Part2_GabrielMoraka\obj\Debug\ManageProfile.baml
+C:\Users\kutlw\OneDrive - ADvTECH Ltd\Documents\Visual Studios Projects\APPR6312_Part2_GabrielMoraka\APPR6312_Part2_GabrielMoraka\bin\Debug\APPR6312_Part2_GabrielMoraka.exe.config
+C:\Users\kutlw\OneDrive - ADvTECH Ltd\Documents\Visual Studios Projects\APPR6312_Part2_GabrielMoraka\APPR6312_Part2_GabrielMoraka\bin\Debug\APPR6312_Part2_GabrielMoraka.exe
+C:\Users\kutlw\OneDrive - ADvTECH Ltd\Documents\Visual Studios Projects\APPR6312_Part2_GabrielMoraka\APPR6312_Part2_GabrielMoraka\bin\Debug\APPR6312_Part2_GabrielMoraka.pdb
+C:\Users\kutlw\OneDrive - ADvTECH Ltd\Documents\Visual Studios Projects\APPR6312_Part2_GabrielMoraka\APPR6312_Part2_GabrielMoraka\obj\Debug\APPR6312_Part2_GabrielMoraka.csproj.AssemblyReference.cache
+C:\Users\kutlw\OneDrive - ADvTECH Ltd\Documents\Visual Studios Projects\APPR6312_Part2_GabrielMoraka\APPR6312_Part2_GabrielMoraka\obj\Debug\ChooseOption.g.cs
+C:\Users\kutlw\OneDrive - ADvTECH Ltd\Documents\Visual Studios Projects\APPR6312_Part2_GabrielMoraka\APPR6312_Part2_GabrielMoraka\obj\Debug\DisasterReport.g.cs
+C:\Users\kutlw\OneDrive - ADvTECH Ltd\Documents\Visual Studios Projects\APPR6312_Part2_GabrielMoraka\APPR6312_Part2_GabrielMoraka\obj\Debug\DonationApp.g.cs
+C:\Users\kutlw\OneDrive - ADvTECH Ltd\Documents\Visual Studios Projects\APPR6312_Part2_GabrielMoraka\APPR6312_Part2_GabrielMoraka\obj\Debug\LoginPage.g.cs
+C:\Users\kutlw\OneDrive - ADvTECH Ltd\Documents\Visual Studios Projects\APPR6312_Part2_GabrielMoraka\APPR6312_Part2_GabrielMoraka\obj\Debug\MainWindow.g.cs
+C:\Users\kutlw\OneDrive - ADvTECH Ltd\Documents\Visual Studios Projects\APPR6312_Part2_GabrielMoraka\APPR6312_Part2_GabrielMoraka\obj\Debug\ManageProfile.g.cs
+C:\Users\kutlw\OneDrive - ADvTECH Ltd\Documents\Visual Studios Projects\APPR6312_Part2_GabrielMoraka\APPR6312_Part2_GabrielMoraka\obj\Debug\RegisterVolunteer.g.cs
+C:\Users\kutlw\OneDrive - ADvTECH Ltd\Documents\Visual Studios Projects\APPR6312_Part2_GabrielMoraka\APPR6312_Part2_GabrielMoraka\obj\Debug\TaskManagement.g.cs
+C:\Users\kutlw\OneDrive - ADvTECH Ltd\Documents\Visual Studios Projects\APPR6312_Part2_GabrielMoraka\APPR6312_Part2_GabrielMoraka\obj\Debug\VolunteerLogin.g.cs
+C:\Users\kutlw\OneDrive - ADvTECH Ltd\Documents\Visual Studios Projects\APPR6312_Part2_GabrielMoraka\APPR6312_Part2_GabrielMoraka\obj\Debug\App.g.cs
+C:\Users\kutlw\OneDrive - ADvTECH Ltd\Documents\Visual Studios Projects\APPR6312_Part2_GabrielMoraka\APPR6312_Part2_GabrielMoraka\obj\Debug\APPR6312_Part2_GabrielMoraka_MarkupCompile.cache
+C:\Users\kutlw\OneDrive - ADvTECH Ltd\Documents\Visual Studios Projects\APPR6312_Part2_GabrielMoraka\APPR6312_Part2_GabrielMoraka\obj\Debug\APPR6312_Part2_GabrielMoraka_MarkupCompile.lref
+C:\Users\kutlw\OneDrive - ADvTECH Ltd\Documents\Visual Studios Projects\APPR6312_Part2_GabrielMoraka\APPR6312_Part2_GabrielMoraka\obj\Debug\ChooseOption.baml
+C:\Users\kutlw\OneDrive - ADvTECH Ltd\Documents\Visual Studios Projects\APPR6312_Part2_GabrielMoraka\APPR6312_Part2_GabrielMoraka\obj\Debug\DisasterReport.baml
+C:\Users\kutlw\OneDrive - ADvTECH Ltd\Documents\Visual Studios Projects\APPR6312_Part2_GabrielMoraka\APPR6312_Part2_GabrielMoraka\obj\Debug\DonationApp.baml
+C:\Users\kutlw\OneDrive - ADvTECH Ltd\Documents\Visual Studios Projects\APPR6312_Part2_GabrielMoraka\APPR6312_Part2_GabrielMoraka\obj\Debug\LoginPage.baml
+C:\Users\kutlw\OneDrive - ADvTECH Ltd\Documents\Visual Studios Projects\APPR6312_Part2_GabrielMoraka\APPR6312_Part2_GabrielMoraka\obj\Debug\MainWindow.baml
+C:\Users\kutlw\OneDrive - ADvTECH Ltd\Documents\Visual Studios Projects\APPR6312_Part2_GabrielMoraka\APPR6312_Part2_GabrielMoraka\obj\Debug\ManageProfile.baml
+C:\Users\kutlw\OneDrive - ADvTECH Ltd\Documents\Visual Studios Projects\APPR6312_Part2_GabrielMoraka\APPR6312_Part2_GabrielMoraka\obj\Debug\RegisterVolunteer.baml
+C:\Users\kutlw\OneDrive - ADvTECH Ltd\Documents\Visual Studios Projects\APPR6312_Part2_GabrielMoraka\APPR6312_Part2_GabrielMoraka\obj\Debug\TaskManagement.baml
+C:\Users\kutlw\OneDrive - ADvTECH Ltd\Documents\Visual Studios Projects\APPR6312_Part2_GabrielMoraka\APPR6312_Part2_GabrielMoraka\obj\Debug\VolunteerLogin.baml
+C:\Users\kutlw\OneDrive - ADvTECH Ltd\Documents\Visual Studios Projects\APPR6312_Part2_GabrielMoraka\APPR6312_Part2_GabrielMoraka\obj\Debug\APPR6312_Part2_GabrielMoraka.g.resources
+C:\Users\kutlw\OneDrive - ADvTECH Ltd\Documents\Visual Studios Projects\APPR6312_Part2_GabrielMoraka\APPR6312_Part2_GabrielMoraka\obj\Debug\APPR6312_Part2_GabrielMoraka.Properties.Resources.resources
+C:\Users\kutlw\OneDrive - ADvTECH Ltd\Documents\Visual Studios Projects\APPR6312_Part2_GabrielMoraka\APPR6312_Part2_GabrielMoraka\obj\Debug\APPR6312_Part2_GabrielMoraka.csproj.GenerateResource.cache
+C:\Users\kutlw\OneDrive - ADvTECH Ltd\Documents\Visual Studios Projects\APPR6312_Part2_GabrielMoraka\APPR6312_Part2_GabrielMoraka\obj\Debug\APPR6312_Part2_GabrielMoraka.csproj.CoreCompileInputs.cache
+C:\Users\kutlw\OneDrive - ADvTECH Ltd\Documents\Visual Studios Projects\APPR6312_Part2_GabrielMoraka\APPR6312_Part2_GabrielMoraka\obj\Debug\APPR6312_Part2_GabrielMoraka.exe
+C:\Users\kutlw\OneDrive - ADvTECH Ltd\Documents\Visual Studios Projects\APPR6312_Part2_GabrielMoraka\APPR6312_Part2_GabrielMoraka\obj\Debug\APPR6312_Part2_GabrielMoraka.pdb

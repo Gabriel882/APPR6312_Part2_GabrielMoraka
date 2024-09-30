@@ -1,0 +1,90 @@
+﻿<Window x:Class="APPR6312_Part2_GabrielMoraka.DisasterReport"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:APPR6312_Part2_GabrielMoraka"
+        mc:Ignorable="d"
+        Title="DisasterReport" Height="610" Width="690">
+    <Grid Background="#23dbd8" Margin="10,10,10,0" Height="556" VerticalAlignment="Top">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="13,8,0,0" x:Name="WelcomeHeading" Text="Welcome: Fill in the information below" VerticalAlignment="Top" FontSize="17" FontStretch="ExtraCondensed"/>
+
+        <StackPanel Margin="10,40,10,-26">
+            <!-- Incident Type -->
+            <TextBlock Text="Incident Type:" Height="22" />
+            <ComboBox x:Name="IncidentTypeComboBox">
+                <ComboBoxItem Content="Earthquake"/>
+                <ComboBoxItem Content="Flood"/>
+                <ComboBoxItem Content="Hurricane"/>
+                <ComboBoxItem Content="Tornado"/>
+                <ComboBoxItem Content="Fire"/>
+                <ComboBoxItem Content="Landslide"/>
+                <ComboBoxItem Content="Other"/>
+            </ComboBox>
+
+            <!-- Date and Time of Incident -->
+            <TextBlock Text="Date and Time of Incident:"  Margin="6"/>
+            <DatePicker x:Name="IncidentDatePicker" />
+
+            <TextBox x:Name="IncidentTimeTextBox" Height="18" Margin="5" ></TextBox>
+
+            <!-- Location -->
+            <TextBlock Text="Location:" Margin="6"/>
+            <TextBox x:Name="AddressTextBox" />
+            <TextBlock Text="Select a country:" Margin="6"/>
+            <ComboBox x:Name="CountryComboBox"  Margin="3" >
+                <ComboBoxItem Content="USA"/>
+                <ComboBoxItem Content="Canada"/>
+                <ComboBoxItem Content="Russia"/>
+                <ComboBoxItem Content="Canada"/>
+                <ComboBoxItem Content="Brazil"/>
+                <ComboBoxItem Content="South Korea"/>
+                <ComboBoxItem Content="India"/>
+                <ComboBoxItem Content="China"/>
+                <ComboBoxItem Content="Japan"/>
+                <ComboBoxItem Content="Italy"/>
+                <ComboBoxItem Content="Croatia"/>
+                <ComboBoxItem Content="South Africa"/>
+            </ComboBox>
+
+            <!-- Description -->
+            <TextBlock Text="Description:" Margin="6"/>
+            <TextBox x:Name="DescriptionTextBox" AcceptsReturn="True" Height="100" TextWrapping="Wrap" Width="631"/>
+
+            <!-- Severity Level -->
+            <TextBlock Text="Severity Level:" Margin="6"/>
+            <ComboBox x:Name="SeverityLevelComboBox">
+                <ComboBoxItem Content="Low"/>
+                <ComboBoxItem Content="Moderate"/>
+                <ComboBoxItem Content="High"/>
+                <ComboBoxItem Content="Severe"/>
+            </ComboBox>
+
+            <!-- Contact Information -->
+            <TextBlock Text="Contact Information:"  Margin="6" />
+            <TextBox x:Name="ContactNameTextBox" Width="642" />
+
+            <!-- Consent -->
+            <CheckBox x:Name="ConsentCheckBox" Margin="10" Content="I agree to the terms and conditions and privacy policy."/>
+
+
+
+
+
+
+
+
+
+            <Button x:Name="SubmitButton" Content="Submit Report" Width="217" Click="SubmitButton_Click" ></Button>
+
+
+
+        </StackPanel>
+        <TextBlock Height="28" HorizontalAlignment="Left" Margin="364,494,0,0" x:Name ="errormessageR" VerticalAlignment="Top" Width="266"  OpacityMask="Red" Foreground="#FFE5572C" />
+
+        <Button Content="Back"   Margin="513,11,27,0" Click="Button_Click" Height="20" VerticalAlignment="Top"  />
+    </Grid>
+</Window>

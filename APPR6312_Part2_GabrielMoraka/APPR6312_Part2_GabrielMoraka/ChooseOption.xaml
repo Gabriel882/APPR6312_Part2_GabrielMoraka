@@ -1,0 +1,43 @@
+﻿<Window x:Class="APPR6312_Part2_GabrielMoraka.ChooseOption"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:APPR6312_Part2_GabrielMoraka"
+        mc:Ignorable="d"
+        Title="ChooseOption" Height="394" Width="552">
+    <Grid Background="#23dbd8" Margin="10,14,10,10">
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="69,18,0,0" x:Name="WelcomeHeading" Text="Welcome:" VerticalAlignment="Top" FontSize="17" FontStretch="ExtraCondensed"/>
+
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="161,20,0,0" x:Name="TextBlockName"  VerticalAlignment="Top" FontSize="15" FontStretch="ExtraCondensed" Width="135" />
+        <Grid Margin="31,0,29,23" Background="White" Height="264" VerticalAlignment="Bottom">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="252*" />
+                <!--   <RowDefinition Height="12*" />-->
+            </Grid.RowDefinitions>
+            <TextBlock Height="23" HorizontalAlignment="Center" Margin="0,10,0,0" Name="textBlockChoose" Text="Please select an option" VerticalAlignment="Top" Width="130" />
+            <!--For password-->
+
+            <Button Content="Disaster Incident" Height="23" HorizontalAlignment="Left" Margin="20,88,0,0" Name="EnterAnDisasterIncident" VerticalAlignment="Top" Width="115" Click="EnterAnDisasterIncident_Click"   />
+            <Button Content="Resource Donation" Height="23" HorizontalAlignment="Left" Margin="172,88,0,0" Name="ResourceDonation" VerticalAlignment="Top" Width="114" Click="ResourceDonation_Click"  />
+            <Button Content="Volunteer Management" Height="23" HorizontalAlignment="Right" Margin="0,88,10,0" Name="VolunteerManagement" VerticalAlignment="Top" Width="138" Click="VolunteerManagement_Click"/>
+            <Button Content="Cancel" Height="23" HorizontalAlignment="Right" Margin="0,212,14,0" Name="CancelButton" VerticalAlignment="Top" Width="70" Click="CancelButton_Click"/>
+
+            <Button Content="Manage Profile" HorizontalAlignment="Left" Margin="346,-42,0,283" Name="manageAccount" Width="114" Click="manageAccount_Click" />
+
+
+            <TextBlock Height="40" HorizontalAlignment="Left" Margin="10,208,0,0" Name="textBlockHeading" VerticalAlignment="Top" FontSize="12" FontStyle="Italic" Padding="5" RenderTransformOrigin="0.486,0.477">
+        Note: Login with different user <!--line break-->
+        please click on 
+       <!--textblock as a Hyperlink.-->
+      <TextBlock>
+             <Hyperlink Click="buttonLogin_Click" FontSize="14" FontStyle="Normal">Login</Hyperlink>
+        </TextBlock>
+        <!--end textblock as a hyperlink-->
+        button
+    </TextBlock>
+        </Grid>
+
+
+    </Grid>
+</Window>

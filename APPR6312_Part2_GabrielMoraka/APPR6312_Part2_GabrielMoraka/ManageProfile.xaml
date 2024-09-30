@@ -1,0 +1,49 @@
+﻿<Window x:Class="APPR6312_Part2_GabrielMoraka.ManageProfile"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:APPR6312_Part2_GabrielMoraka"
+        mc:Ignorable="d"
+        Title="ManageProfile" Height="450" Width="460">
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Text="Profile Management" FontSize="20" FontWeight="Bold" HorizontalAlignment="Center" Margin="0,0,0,20" Grid.Row="0"/>
+
+        <TextBlock Text="Current Name:" Margin="0,34,0,28" Grid.RowSpan="2"/>
+        <TextBox x:Name="NameTextBox" Margin="0,7,0,8" Grid.Row="1"/>
+
+        <TextBlock Text="Current Username:" Margin="0,30,0,27" Grid.Row="1" Grid.RowSpan="3"/>
+        <TextBox x:Name="UsernameTextBox" Margin="0,11,0,4" Grid.Row="3"/>
+
+        <TextBlock Text="New Password:" Margin="0,30,0,26" Grid.Row="3" Grid.RowSpan="2"/>
+        <PasswordBox x:Name="NewPasswordBox" Margin="0,11,0,4" Grid.Row="4"/>
+
+        <TextBlock Text="Confirm Password:" Margin="0,29,0,21" Grid.Row="4" Grid.RowSpan="2"/>
+        <PasswordBox x:Name="ConfirmPasswordBox" Margin="0,13,0,2" Grid.Row="5"/>
+
+        <StackPanel Orientation="Horizontal" Grid.Row="6" Margin="30,79,10,49" >
+            <Button x:Name="UpdateButton" Content="Update Profile" Width="120" Margin="0,0,10,0" Height="40" Click="UpdateButton_Click"/>
+            <Button x:Name="DeleteAccountButton" Content="Delete Account" Width="113" Height="40" Click="DeleteAccountButton_Click" />
+            <Button Content="Back"   Height="40" Width="55" Click="Button_Click"  />
+        </StackPanel>
+
+        <TextBlock x:Name="StatusMessage" Margin="0,20,0,150" Foreground="Green" Grid.Row="6"/>
+
+
+
+
+
+
+    </Grid>
+</Window>
